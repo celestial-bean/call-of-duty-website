@@ -1,0 +1,95 @@
+.header {
+  position: absolute;
+  top: 4%;
+  left: 5%;
+  right: 5%;
+  height: 20%;
+  background-color: #595959;
+}
+
+.multiplayer {
+  position: absolute;
+  left: 5%;
+  top: 24%;
+  height: 33%;
+  right: 5%;
+  background-color: #37392f;
+}
+
+.zombies {
+  position: absolute;
+  background-color: #005c2a;
+  height: 34%;
+  left: 5%;
+  right: 5%;
+  top: 57%;
+
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+}
+
+
+.Scorestreaks {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+.Maps {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+
+.row1 {
+  right: 5px;
+  left: 5px;
+  height: 135px;
+}
+.zRow1{
+  right:500%;
+  width:100%;
+  height:50%;
+}
+.zRow2{
+  width:100%;
+  height:50%;
+}
+a{
+  color:#0e67a3;
+  font-size:24px;
+}
+.hundred{
+  height:100%;
+  width:100%;
+
+}
+.box{
+  width:50%;
+  font-size: 19px;
+
+}
+.fullMult{
+  position: absolute;
+  left: 5%;
+  top: 24%;
+  height: 66%;
+  right: 5%;
+  background-color: #37392f;
+}
+.fullZomb{
+  position: absolute;
+  left: 5%;
+  top: 24%;
+  height: 66%;
+  right: 5%;
+  background-color: #005c2a;
+}
+.infoFont{
+  font-size:20px;
+}
